@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>光電系邀請函</title>
+	<meta charset="utf-8">
+	<style type="text/css">
+		*{
+			font-family: 微軟正黑體;
+		}
+		body{
+			background: #DCE35B;  /* fallback for old browsers */
+			background: -webkit-linear-gradient(to bottom, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+		}
+		td{
+			padding: 10px;
+		}
+	</style>
+</head>
+<body>
+	<table border="0" style="display:inline-block;position: absolute;left:50%;top:50%;transform: translate(-50%,-50%);">
+		<form action="autoemail.php" method="post">
+			<tr>
+				<td><label for="mailer">寄件人 : </label></td>
+				<td><input type="text" name="mailer"></td>
+			</tr>
+			<tr>
+				<td><label for="mailermail">寄件人信箱 : </label></td>
+				<td><input type="text" name="mailermail"></td>
+			</tr>
+			<tr>
+				<td><label for="two">副件信箱 : </label></td>
+				<td><input type="text" name="two"></td>
+			</tr>
+			<tr>
+				<td><label for="to">主旨 : </label></td>
+				<td><input type="text" name="to"></td>
+			</tr>
+			<tr>
+				<td colspan="2" style="text-align: center;"><input type="submit" name="submit" value="寄信去!" style="background:none;
+  width: 100%;background-color: #4267b2;color: white;font-size: 20px;"></td>
+			</tr>
+		</form>
+	</table>
+</body>
+</html>

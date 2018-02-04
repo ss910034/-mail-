@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD HTML 4.01//EN' 'https://www.w3.org/TR/html4/strict.dtd'>
+      <html lang='zh-TW'><head>
+      <meta http-equiv=Content-Type content='text/html; charset=UTF-8'>
+      <title>邀請函</title>
+  </head>
+  <body style='width: 100%;'>
+  <table border='0' cellspacing='0' cellpadding='0' align='center' style='font-family: Calibri;width:650px;height:100%;display:block;margin:auto;'>
+      <tr>
+          <td><img src='cid:image001' style='display: inline-block;'></td>
+          <td style='padding: 0pt 0pt 0pt 0pt; display: inline-block;text-align: left;'> 
+            <strong><span style='color:black; '>Secretariat      of OPTIC 2017</span></strong><br>
+            <strong><span style='color:black; '>Department      of Photonics</span></strong><br>
+            <strong><span style='color:black; '>National      Sun Yat-sen University</span></strong><br>
+            <strong><span style='color:black; '>No.      70 Lein-Hai Road, Kaohsiung, </span></strong><br>
+            <strong><span style='color:black; '>Taiwan      804, R. O. C.</span></strong><br>
+            <strong><a href='Tel:+886-7-525-2000'>Tel:+886-7-525-2000</a> ext 4451-4452</strong><br>
+            <strong>Fax:+886-7-525-4499</strong><br>
+            <strong>E-mail:      optic2017@mail.nsysu.edu.tw</strong></td>
+      </tr>
+      <tr>
+          <td colspan='2'>
+              <br>
+              <p align='center' style='text-align:center;'><strong><span style='font-size:22.0pt; color:#C00000;'>OFFICIAL  INVITATION LETTER</span></strong></p>
+              <p style='text-align:justify;text-justify:inter-ideograph;'>&nbsp;&nbsp;&nbsp; <span style='color:#0D0D0D; '>
+          </td>
+      </tr>   
+      <tr>
+          <td colspan='2'>
+              <p align='right' style='text-align:right;'><span style='font-size:14.0pt; color:#0D0D0D; '>&nbsp;</span><span style='font-family:'Times New Roman',serif; font-size:14.0pt; color:#0D0D0D; '>2017.05</span></p>
+              <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span lang=EN-US>The Optics &amp; Photonics Taiwan, the International Conferenc e
+            (OPTIC 2017) has served as the largest annual meeting for the significant
+            progress of research and development on optics and photonics in Taiwan. This
+            year, OPTIC 2017 will be held in National Sun Yat-sen University (NSYSU) from
+            December 7 to December 9, which is located along the beautiful </span><span
+            lang=EN-US style='font-family:"Times New Roman",serif;color:black;background:
+            white'>Siziwan Bay in southern Taiwan</span><span lang=EN-US>. On behalf of the
+            conference organizing committee, it is our pleasure and honor to invite you to
+            be invited speaker of the sub-session ,”<span style='color:red'> XXXXXX</span>”.<span
+            style='mso-spacerun:yes'>&nbsp; </span>We would be most grateful if you could
+            accept our invitation and participate in this meeting and email us the author
+            list, affiliation, title and abstract of your presentation at your earliest
+            convenience, but no later than <span style='color:red'>XXXXXX</span>, 2017. With
+            your excellent achievement in research, we believe your talk and visit will be
+            reflected for the success of OPTIC 2017. </span></p>
+
+            <p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph;
+            text-indent:24.0pt'><span lang=EN-US>To find more information of the
+            conference, please check the website,”optic2017.conf.tw”. Please encourage your
+            colleagues and students to join this conference. Should you have any
+            suggestions or comments, feel free to contact us at<span style='color:#0D0D0D'><span
+            style='mso-spacerun:yes'>&nbsp; </span>optic2017@mail.nsysu.edu.tw</span>. </span></p>
+
+            <p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
+
+            <p class=MsoNormal><span lang=EN-US>Sincerely yours, </span></p>
+            <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'>Subsession
+            chair<span
+            style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            </span>Subsession co-chair<o:p></o:p></span></p>
+            <p style='text-align:justify;text-justify:inter-ideograph;'><strong>Program      Committee Chair</strong></p>
+            <p style='text-align:justify;text-justify:inter-ideograph;'>Yi-Jen Chiu</p>
+            <p style='text-align:justify;text-justify:inter-ideograph;'><img src='cid:image004' alt='1' width='188' height='66' /></p>
+            </td>
+      </tr>
+          <tr>
+              <td colspan='2' align='center'>
+                  <p><img src='cid:image008' alt='1' width='650' height='189' style=''/></p>
+              </td>
+      </tr>
+  </table>
+  </body>
+  </html>
